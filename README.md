@@ -32,11 +32,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"
       width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" alt="csharp" width="40"
       height="40" />
   </a>
   <a href="https://flutter.dev" target="_blank">
@@ -46,26 +46,26 @@
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" alt="typescript"
       width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="javascript"
       width="40" height="40" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
       width="40" height="40" />
   </a>
   <a href="https://www.rabbitmq.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
   </a>
   <a href="https://redis.io" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redis/redis-original-wordmark.svg" alt="redis"
       width="40" height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original-wordmark.svg" alt="docker"
       width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
