@@ -8,14 +8,6 @@
       src="https://img.shields.io/twitter/follow/ckiritchouk?logo=twitter&style=for-the-badge" alt="ckiritchouk" /></a>
 </p>
 
-- 🌱 I’m currently learning **Functional Programming**
-
-- 👨‍💻 All of my projects are available at [https://kiritchoukc.com](https://kiritchoukc.com)
-
-- 📝 I write articles on [https://dev.to/kiritchoukc](https://dev.to/kiritchoukc)
-
-- 📫 How to reach me **clement.kiritchouk@protonmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/kiritchoukc" target="blank"><img align="center"
