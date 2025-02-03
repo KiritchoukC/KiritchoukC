@@ -4,18 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=kiritchoukc" alt="kiritchoukc" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ckiritchouk" target="blank"><img
-      src="https://img.shields.io/twitter/follow/ckiritchouk?logo=twitter&style=for-the-badge" alt="ckiritchouk" /></a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/kiritchoukc" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kiritchoukc" height="30"
-      width="40" /></a>
-  <a href="https://twitter.com/ckiritchouk" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ckiritchouk" height="30"
-      width="40" /></a>
   <a href="https://linkedin.com/in/clément-kiritchouk" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="clément-kiritchouk" height="30"
       width="40" /></a>
